@@ -1,4 +1,4 @@
-The Isolated Sky Town
+# The Isolated Sky Town
 
 This is a program of computer graphics. The project will utilize image representation, formation, presentation, composition, and manipulation; Modeling, transformation, and display of geometric objects in two and three dimensions; Representation of curves and surfaces. Rendering, animation, multi-media, and visualization. It can use the lookAt checkbox to see each specific object from the output. 
 
