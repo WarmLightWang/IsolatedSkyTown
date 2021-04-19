@@ -15,9 +15,9 @@ This is a program of computer graphics. The project will utilize image represent
 # There are shaders files for creating the neon light
    - Filename: shader.vs, and shader.fs
 
-# Look from the position above the front right of the isolated sky town
+# Look from the position above the front right of the sky town
 ![Getting Started](./images/output.PNG)
 
-# The recorded video of output (Please click the start button)
+# The output video(Please click the start button)
 https://user-images.githubusercontent.com/77606911/115185605-ca5be480-a0a5-11eb-90d0-644e10e72695.mp4
 
