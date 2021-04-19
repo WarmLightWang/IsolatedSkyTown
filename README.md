@@ -17,4 +17,8 @@ This is a program of computer graphics. The project will utilize image represent
 
 # Look from the position above the front right of the isolated sky town
 ![Getting Started](./images/output.PNG)
+
  
+# The recorded output
+https://user-images.githubusercontent.com/77606911/115166435-ba79db80-a078-11eb-8e98-81dbd55685e7.mp4
+
